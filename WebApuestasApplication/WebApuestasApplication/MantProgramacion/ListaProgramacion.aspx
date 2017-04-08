@@ -25,6 +25,7 @@
         <asp:Button ID="btnPublicarProgApuesta" runat="server" Text="2.Publicar Programación" />
         <asp:Button ID="btnRegistrarResultado" runat="server" Text="3.Registrar Resultado" />
         <asp:Button ID="btnPublicarResultado" runat="server" Text="4.Publicar Resultado" />
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </div>
 
     <div id="Lista">
